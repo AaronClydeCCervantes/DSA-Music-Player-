@@ -1,0 +1,28 @@
+		Project UNO - Music Player 
+
+Requirements:
+	1. Music Library 
+	2. Playlists
+	3. Queues
+	4. Data Storage
+	
+
+Challenges:
+	1. Shuffle and Repeat
+	2. Album Tracking
+	3. Importing Tracks
+	4. Sorter
+
+Limitation and Warning:
+	You are forbidden in using most built-in Python classes. The only exception is when
+you are implementing code for reading / writing data storage permanently. All classes must
+be defined by you and your group. Violating this note will result in significant sanctions
+imposed by your instructor.
+For any student with similar code submissions, ignoring variable/function/class name changes, 
+white spacing, etc., your score will be divided upon how many other students is found to share
+such code similarity. Since you decide to submit the same output, then it is reasonable that t
+he score will be divided upon each and everyone involved
+in such practice.
+	
+
+
