@@ -1,0 +1,226 @@
+{
+    "Music_Library": [
+        {
+            "title": "AUTUMN LEAVES",
+            "artist": "OLIVER",
+            "album": "OLIVER'S GROOVE",
+            "duration": 200
+        },
+        {
+            "title": "DANCING IN THE RAIN",
+            "artist": "OLIVER",
+            "album": "OLIVER'S GROOVE",
+            "duration": 180
+        },
+        {
+            "title": "DESERT DUNES",
+            "artist": "JANE",
+            "album": "NATURE'S CALL",
+            "duration": 270
+        },
+        {
+            "title": "EVENING STROLL",
+            "artist": "MELISSA",
+            "album": "MELISSA'S JOURNEY",
+            "duration": 210
+        },
+        {
+            "title": "FADING LIGHT",
+            "artist": "CLYDE",
+            "album": "CLYDE'S MUSIC",
+            "duration": 180
+        },
+        {
+            "title": "FOREST WHISPERS",
+            "artist": "JANE",
+            "album": "NATURE'S CALL",
+            "duration": 250
+        },
+        {
+            "title": "LOVE IS DEAD",
+            "artist": "CLYDE",
+            "album": "CLYDE'S MUSIC",
+            "duration": 60
+        },
+        {
+            "title": "MIDNIGHT",
+            "artist": "CLYDE",
+            "album": "CLYDE'S MUSIC",
+            "duration": 300
+        },
+        {
+            "title": "MOUNTAIN TRAILS",
+            "artist": "JANE",
+            "album": "NATURE'S CALL",
+            "duration": 300
+        },
+        {
+            "title": "NEW BEGINNING",
+            "artist": "MELISSA",
+            "album": "MELISSA'S JOURNEY",
+            "duration": 200
+        },
+        {
+            "title": "OCEAN WAVES",
+            "artist": "JANE",
+            "album": "NATURE'S CALL",
+            "duration": 220
+        },
+        {
+            "title": "PEACEFUL WATERS",
+            "artist": "MELISSA",
+            "album": "MELISSA'S JOURNEY",
+            "duration": 240
+        },
+        {
+            "title": "RISING MOON",
+            "artist": "CLYDE",
+            "album": "CLYDE'S MUSIC",
+            "duration": 150
+        },
+        {
+            "title": "SILENT HORIZONS",
+            "artist": "MELISSA",
+            "album": "MELISSA'S JOURNEY",
+            "duration": 180
+        },
+        {
+            "title": "SPRING BLOSSOMS",
+            "artist": "OLIVER",
+            "album": "OLIVER'S GROOVE",
+            "duration": 210
+        },
+        {
+            "title": "STARLIGHT SERENADE",
+            "artist": "OLIVER",
+            "album": "OLIVER'S GROOVE",
+            "duration": 220
+        },
+        {
+            "title": "SUMMER BREEZE",
+            "artist": "OLIVER",
+            "album": "OLIVER'S GROOVE",
+            "duration": 190
+        },
+        {
+            "title": "SUNSET DREAM",
+            "artist": "CLYDE",
+            "album": "CLYDE'S MUSIC",
+            "duration": 240
+        },
+        {
+            "title": "THE OCEAN'S SONG",
+            "artist": "MELISSA",
+            "album": "MELISSA'S JOURNEY",
+            "duration": 220
+        },
+        {
+            "title": "WINTER CHILL",
+            "artist": "OLIVER",
+            "album": "OLIVER'S GROOVE",
+            "duration": 240
+        }
+    ],
+    "Playlists": {
+        "Clyde's Music": [
+            {
+                "title": "LOVE IS DEAD",
+                "artist": "CLYDE",
+                "album": "CLYDE'S MUSIC",
+                "duration": 60
+            },
+            {
+                "title": "FADING LIGHT",
+                "artist": "CLYDE",
+                "album": "CLYDE'S MUSIC",
+                "duration": 180
+            },
+            {
+                "title": "SUNSET DREAM",
+                "artist": "CLYDE",
+                "album": "CLYDE'S MUSIC",
+                "duration": 240
+            }
+        ],
+        "Melissa's Journey": [
+            {
+                "title": "NEW BEGINNING",
+                "artist": "MELISSA",
+                "album": "MELISSA'S JOURNEY",
+                "duration": 200
+            },
+            {
+                "title": "PEACEFUL WATERS",
+                "artist": "MELISSA",
+                "album": "MELISSA'S JOURNEY",
+                "duration": 240
+            },
+            {
+                "title": "SILENT HORIZONS",
+                "artist": "MELISSA",
+                "album": "MELISSA'S JOURNEY",
+                "duration": 180
+            }
+        ],
+        "Chill Vibes": [
+            {
+                "title": "THE OCEAN'S SONG",
+                "artist": "MELISSA",
+                "album": "MELISSA'S JOURNEY",
+                "duration": 220
+            },
+            {
+                "title": "EVENING STROLL",
+                "artist": "MELISSA",
+                "album": "MELISSA'S JOURNEY",
+                "duration": 210
+            },
+            {
+                "title": "SUNSET DREAM",
+                "artist": "CLYDE",
+                "album": "CLYDE'S MUSIC",
+                "duration": 240
+            }
+        ],
+        "Oliver's Hits": [
+            {
+                "title": "DANCING IN THE RAIN",
+                "artist": "OLIVER",
+                "album": "OLIVER'S GROOVE",
+                "duration": 180
+            },
+            {
+                "title": "STARLIGHT SERENADE",
+                "artist": "OLIVER",
+                "album": "OLIVER'S GROOVE",
+                "duration": 220
+            },
+            {
+                "title": "WINTER CHILL",
+                "artist": "OLIVER",
+                "album": "OLIVER'S GROOVE",
+                "duration": 240
+            }
+        ],
+        "Nature's Tunes": [
+            {
+                "title": "MOUNTAIN TRAILS",
+                "artist": "JANE",
+                "album": "NATURE'S CALL",
+                "duration": 300
+            },
+            {
+                "title": "FOREST WHISPERS",
+                "artist": "JANE",
+                "album": "NATURE'S CALL",
+                "duration": 250
+            },
+            {
+                "title": "OCEAN WAVES",
+                "artist": "JANE",
+                "album": "NATURE'S CALL",
+                "duration": 220
+            }
+        ]
+    }
+}
